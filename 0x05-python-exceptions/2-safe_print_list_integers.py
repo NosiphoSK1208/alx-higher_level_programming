@@ -11,4 +11,3 @@ def safe_print_list_integers(xlist=[], indx=0):
             continue
     print("")
     return (j)
-
