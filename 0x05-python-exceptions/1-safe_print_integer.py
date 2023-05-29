@@ -6,4 +6,3 @@ def safe_print_integer(avl):
         return (True)
     except (TypeError, ValueError):
         return (False)
-

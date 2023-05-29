@@ -20,4 +20,3 @@ def safe_print_list(a_list=[], j=0):
             break
     print("")
     return (v)
-
