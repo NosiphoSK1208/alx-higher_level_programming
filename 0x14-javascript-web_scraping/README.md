@@ -1,4 +1,5 @@
 0x14. JavaScript - Web scraping
+
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
@@ -30,7 +31,7 @@ $ sudo apt-get install -y nodejs
 Install semi-standard
 Documentation
 
-$ sudo npm install semistandard --global
+""$ sudo npm install semistandard --global """
 Install request module and use it
 Documentation
 
